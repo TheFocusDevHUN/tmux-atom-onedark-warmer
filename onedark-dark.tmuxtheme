@@ -17,4 +17,4 @@ thm_green="#8fb573"
 thm_yellow="#dbb671"
 thm_blue="#57a5e5"
 thm_orange="#c49060"
-thm_black4="#37383d" # not part of one_dark, used `bg3`
+thm_black4="#2C2D31" # not part of one_dark, used `bg3`
