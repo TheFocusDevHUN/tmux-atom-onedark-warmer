@@ -2,19 +2,19 @@
 # WARNING: hex colors can't contain capital letters
 
 # Dark theme from: https://github.com/navarasu/onedark.nvim/blob/master/lua/onedark/palette.lua
-# TODO: Add variants?
+# Warm variant only
 
 # --> OneDark Theme
-thm_bg="#282c34"
-thm_fg="#abb2bf"
-thm_cyan="#56b6c2"
-thm_black="#181a1f"
-thm_gray="#5c6370"
+thm_bg="#232326"
+thm_fg="#a7aab0"
+thm_cyan="#51a8b3"
+thm_black="#101012"
+thm_gray="#5a5b5e"
 thm_magenta="#c678dd"
 thm_pink="#f4b8e4" # not part of one_dark
-thm_red="#e86671"
-thm_green="#98c379"
-thm_yellow="#e5c07b"
-thm_blue="#61afef"
-thm_orange="#d19a66"
-thm_black4="#3b3f4c" # not part of one_dark, used `bg3`
+thm_red="#de5d68"
+thm_green="#8fb573"
+thm_yellow="#dbb671"
+thm_blue="#57a5e5"
+thm_orange="#c49060"
+thm_black4="#37383d" # not part of one_dark, used `bg3`
